@@ -41,7 +41,7 @@ Coming soon...
 
 ## Author
 
-- Frontend Mentor - [@ElaysonAbreu](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@ElaysonAbreu](https://www.frontendmentor.io/profile/elaysonabreu)
 
 ## Acknowledgments
 
