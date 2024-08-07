@@ -12,7 +12,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -26,23 +25,22 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 - Semantic HTML5 markup
 - CSS custom properties
+- Desktop-first workflow
 
 ### What I learned
 
-Coming soon...
+Using `@font-face` to request fonts from your own directory is very convenient. It's better than installing them on the OS.
 
 ### Continued development
 
-Coming soon...
+I still need to understand the influence of `border-collapse` on the configurations of a `<table>`.
 
 ### Useful resources
 
-Coming soon...
+- [DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-load-and-use-custom-fonts-with-css) - Here I was able to learn about the most varied ways of loading a font, especially with `@font-face`.
+
+- [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/hr) - Using `<hr>` instead of a `<div class="hrule"></div>` is probably better.
 
 ## Author
 
 - Frontend Mentor - [@ElaysonAbreu](https://www.frontendmentor.io/profile/elaysonabreu)
-
-## Acknowledgments
-
-Coming soon...
