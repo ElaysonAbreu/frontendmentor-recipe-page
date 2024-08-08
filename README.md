@@ -41,6 +41,8 @@ I still need to understand the influence of `border-collapse` on the configurati
 
 - [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/hr) - Using `<hr>` instead of a `<div class="hrule"></div>` is probably better.
 
+- [Stack Overflow](https://stackoverflow.com/a/29166036) - It is possible to center `<body>` using `margin: auto`.
+
 ## Author
 
 - Frontend Mentor - [@ElaysonAbreu](https://www.frontendmentor.io/profile/elaysonabreu)
