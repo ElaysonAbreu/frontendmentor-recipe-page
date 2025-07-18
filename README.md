@@ -1,28 +1,38 @@
-# Frontend Mentor - Recipe page solution
+# Frontend Mentor - Blog preview card solution
 
-This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
+- [Frontend Mentor - Blog preview card solution](#frontend-mentor---blog-preview-card-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+    - [Useful resources](#useful-resources)
+  - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
 
 ## Overview
 
+### The challenge
+
+Users should be able to:
+
+- See hover and focus states for all interactive elements on the page
+
 ### Screenshot
 
-![Screenshot of Recipe page](./screenshot.png)
+![Screenshot of Blog Preview Card Solution](./screenshot.png)
 
 ### Links
 
-- Live Site URL: [Recipe Page](https://elaysonabreu.github.io/frontendmentor-recipe-page/)
+- Live Site URL: [Blog Preview Card](https://elaysonabreu.github.io/frontendmentor-blog-preview-card/)
 
 ## My process
 
@@ -30,22 +40,25 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Desktop-first workflow
+- CSS Grid
 
 ### What I learned
 
-Using `@font-face` to request fonts from your own directory is very convenient. It's better than installing them on the OS.
+It is possible to add shadow to the container using `box-shadow`.
 
 ### Continued development
 
-I still need to understand the influence of `border-collapse` on the configurations of a `<table>`.
+I used `vertical-align` in this project, but I assigned it an absolute value. I would have preferred to have found a way to insert a predefined value like `middle`, but the result was incomprehensible. So I need to understand this property better.
 
 ### Useful resources
 
-- [DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-load-and-use-custom-fonts-with-css) - Here I was able to learn about the most varied ways of loading a font, especially with `@font-face`.
-- [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/hr) - Using `<hr>` instead of a `<div class="hrule"></div>` is probably better.
-- [Stack Overflow](https://stackoverflow.com/a/29166036) - It is possible to center `<body>` using `margin: auto`.
+- [ChatGPT](https://openai.com/chatgpt/) - It taught me how to use the `box-shadow` property.
+- [Community feedback](https://www.frontendmentor.io/solutions/social-links-profile-using-css-lOFIHhT9gz) - In my previous challenge, user `MikDra1` posted a code that can be used to center elements vertically. I used his code in this challenge.
 
 ## Author
 
-- Frontend Mentor - [@ElaysonAbreu](https://www.frontendmentor.io/profile/elaysonabreu)
+- Frontend Mentor - [@ElaysonAbreu](https://www.frontendmentor.io/profile/ElaysonAbreu)
+
+## Acknowledgments
+
+I would like to thank a user in my [Community feedback](https://www.frontendmentor.io/solutions/social-links-profile-using-css-lOFIHhT9gz) tab who taught me a way to center containers vertically.
